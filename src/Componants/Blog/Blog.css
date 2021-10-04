@@ -1,0 +1,10 @@
+.blog-items .articles{
+   text-align: left;
+   border: 1px solid grey;
+   border-radius: 50px;
+   margin-top: 20px;
+}
+.blog-items .articles .article-header,.article{
+   text-align: left;
+ padding:20px;
+}

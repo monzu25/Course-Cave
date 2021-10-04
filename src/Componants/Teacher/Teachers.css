@@ -1,0 +1,22 @@
+.duration-fee{
+    display: grid;
+    grid-template-columns: repeat(2,1fr)
+    
+    }
+    .social-icon{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    
+    
+    .duration, .fee{
+        color: #07294D;
+       font-weight: 600;
+    }
+    
+    .icon-color{
+        color: gold;
+       
+    }
+    

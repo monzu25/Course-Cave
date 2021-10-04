@@ -1,0 +1,38 @@
+.footer-container{
+display: flex;
+flex-direction: row;
+justify-content:space-around;
+height: 300px;
+background-color: #07294D;
+padding: 20px 10px;
+
+}
+.logo1st{
+    color: white;
+ 
+}
+.logo2nd{
+    color:#FFBC09;
+ 
+}
+.footer-about p{
+color: white;
+text-align: left;
+}
+.footer-about h1{
+align-items: inherit;
+}
+.footer-social-icon,.footer-menu,.footer-form{
+    color: white;
+}
+.footer-social-icon{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: white;
+   align-items:flex-start
+}
+.footer-menu p{
+line-height: 12px;
+text-align: left;
+}

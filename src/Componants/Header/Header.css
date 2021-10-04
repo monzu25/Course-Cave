@@ -1,0 +1,64 @@
+.header{
+    height: 80px;
+    width: 100%;
+    margin-top: -20px;
+    background-color: #07294D;
+    padding: 20px 10px;
+    border-bottom: 1px solid gainsboro;
+}
+.header img,h1{
+   text-align: left;
+  
+   padding-top: 5px;
+}
+
+
+.logo1st{
+    color: white;
+}
+.logo2nd{
+    color:#FFBC09;
+}
+
+.menu-bar{
+height: 50px;
+background-color: #072044;;
+
+}
+.menu-bar nav{
+height: 50px;
+color: white;
+padding-top: 10px;
+}
+.menu{
+text-decoration: none;
+color: white;
+margin: 10px;
+font-weight: bold;
+font-family:sans-serif;
+
+}
+.menu :hover{
+background-color:lightgray;
+
+}
+
+
+
+
+
+/* 
+.header nav {
+    background-color: black;
+    line-height: 40px;
+}
+.header nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    padding: 5px;
+    font-size: 20px;
+}
+.header nav a:hover{
+    background-color: lightgray;
+} */
