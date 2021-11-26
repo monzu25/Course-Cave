@@ -22,6 +22,8 @@ const Blog = () => {
 
                     ¹Burning Glass: Labor Insight (Last 12 Months: Feb. 1, 2020 - Jan. 31, 2021)
 
+                    WOOW!!!
+
                     ²Coursera Learner Outcome Survey, all time for Google IT Support Certificate. Data is collected via on-platform surveys or email and is cumulative from Jan 2018 - Jan 2021.
 
                     Applied Learning Project
